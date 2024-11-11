@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SistemaVenta.DAL",
+    "\\SistemaVenta.DAL\\DBContext"
+  ],
+  "SelectedNode": "\\SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
+  "PreviewInSolutionExplorer": false
+}
